@@ -2,7 +2,7 @@
 	"name": "history.js",
 	"version": "1.8.0",
 	"description": "History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.  For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.",
-	"homepage": "https://github.com/browserstate/history.js",
+	"homepage": "https://github.com/timrc/history.js",
 	"main": "scripts/compressed/history.js",
 	"keywords": [
 		"javascript",
@@ -41,10 +41,15 @@
 			"name": "Andreas Bernhard",
 			"email": "andreas@bernhard.im",
 			"web": "http://www.bs-infosys.com"
+		},
+		{
+			"name": "Tim Rijavec",
+			"email": "tim@coder.si",
+			"web": "http://coder.si"
 		}
 	],
 	"bugs": {
-		"web": "https://github.com/browserstate/history.js/issues"
+		"web": "https://github.com/timrc/history.js/issues"
 	},
 	"licenses": [
 		{
@@ -54,7 +59,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "http://github.com/browserstate/history.js.git"
+		"url": "http://github.com/timrc/history.js.git"
 	},
 	"dependencies": {
 		"buildr": "0.8.x"
